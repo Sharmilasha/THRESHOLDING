@@ -95,13 +95,16 @@ for i in range(0,9):
 ### Global Thresholding
 ![Y2](https://github.com/Sharmilasha/THRESHOLDING/assets/94506182/e021280c-78b3-476a-a6ba-4b1c9e4f802e)
 ![Y3](https://github.com/Sharmilasha/THRESHOLDING/assets/94506182/f4474b13-c641-44e9-846e-44a9f00a0a75)
-
+![Q1](https://github.com/Sharmilasha/THRESHOLDING/assets/94506182/ab62a13a-e075-4920-8f2d-6bcc93d5c4dc)
+![Q2](https://github.com/Sharmilasha/THRESHOLDING/assets/94506182/14c01ce9-ea9b-4605-890d-e2ae76fadc3a)
+![Q4](https://github.com/Sharmilasha/THRESHOLDING/assets/94506182/ea273a46-86ae-4827-b5aa-1f67fbab8893)
 
 ### Adaptive Thresholding
-
+![qe](https://github.com/Sharmilasha/THRESHOLDING/assets/94506182/7059afa9-3930-4443-af31-bb41482030d1)
+![kw](https://github.com/Sharmilasha/THRESHOLDING/assets/94506182/834ea426-a8cd-49a0-97d1-f6a825df2f77)
 
 ### Optimum Global Thesholding using Otsu's Method
-
+![Q5](https://github.com/Sharmilasha/THRESHOLDING/assets/94506182/2bb63cd1-2d7a-4d2c-b31f-7b7333de6a9a)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
